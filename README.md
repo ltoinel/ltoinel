@@ -30,4 +30,4 @@ Here are a few highlights of what you’ll find in my repositories:
 
 ## Fun Facts  
 
-🎸 When I’m not coding, you’ll find me playing the guitar or exploring road trips in my van, which I document on [Apollo-Van.fr](https://apollo-van.fr).  
+🎸 When I’m not coding, you’ll find me playing guitar or exploring road trips in my van, which I document on [Apollo-Van.fr](https://apollo-van.fr).  
