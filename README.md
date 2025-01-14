@@ -10,14 +10,10 @@
 📚 **Skills:** Cloud Architecture, Kubernetes, Fullstack Development (Java, JavaScript, Python), DevOps, and Agile Methodologies.  
 🛠️ **Tools & Technologies:** Azure, Docker, Node.js, Spring Boot, React, and more.  
 
----
-
 ## My Philosophy  
 
 ✨ For me, **coding is more than work; it’s a creative outlet and a lifelong passion.**  
 💡 I believe in open-source as a tool to share knowledge and empower others to innovate.  
-
----
 
 ## Projects & Contributions  
 
@@ -27,14 +23,10 @@ Here are a few highlights of what you’ll find in my repositories:
 - 🚀 **Open-Source Contributions:** Sharing solutions that solve real-world problems and supporting the developer community.  
 - 📈 **Tech Articles & Guides:** Check out my blog [Geeek.org](https://www.geeek.org) for insights on coding, architecture, and the latest trends in tech.  
 
----
-
 ## Let’s Connect  
 
 🌐 [Geeek.org](https://www.geeek.org) - My blog where I share tech insights and tutorials.  
 🔗 [LinkedIn](https://www.linkedin.com/in/ludovic-toinel/) - Connect with me for professional opportunities.  
-
----
 
 ## Fun Facts  
 
