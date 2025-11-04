@@ -6,7 +6,7 @@
 🚩 Based in **Nantes**, France, blending creativity and technology for innovative solutions.  
 🤝 Passionate about building high-performing teams, I’m always on the lookout for talented developers and fullstack architects to join us.  
 
-🌟 **Experience:** Over 20 years designing and delivering robust, scalable, and maintainable software solutions across industries.  
+🌟 **Experience:** Over 21 years designing and delivering robust, scalable, and maintainable software solutions across industries.  
 📚 **Skills:** Cloud Architecture, Kubernetes, Fullstack Development (Java, JavaScript, Python), DevOps, and Agile Methodologies.  
 🛠️ **Tools & Technologies:** Azure, Docker, Node.js, Spring Boot, React, and more.  
 
