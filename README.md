@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://ludovic.toinel.com"><img src="https://img.shields.io/badge/Blog-Geeek.org-0A66C2?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/></a>
   <a href="https://www.linkedin.com/in/ltoinel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ltoinel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://apollovan.fr"><img src="https://img.shields.io/badge/ApolloVan.fr-FF6F00?style=for-the-badge&logo=campsite&logoColor=white" alt="ApolloVan"/></a>
   <img src="https://komarev.com/ghpvc/?username=ltoinel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
