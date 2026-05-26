@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ltoinel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ltoinel&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
 ## 🚀 Featured Projects
