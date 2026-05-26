@@ -43,16 +43,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltoinel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ludovic's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltoinel&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
+  <a href="https://github.com/ltoinel">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ltoinel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/ltoinel">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ltoinel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltoinel&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=ltoinel&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ltoinel&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ltoinel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
 </p>
 
 ## 🚀 Featured Projects
