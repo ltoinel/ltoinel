@@ -38,25 +38,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ltoinel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ltoinel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/ltoinel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ltoinel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ltoinel&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ltoinel&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
-</p>
-
 ## 🚀 Featured Projects
 
 - 🏠 **[DomoGeeek](https://github.com/ltoinel/DomoGeeek)** — Home automation box based on Z-Wave, Raspberry Pi, Node.js and MongoDB
