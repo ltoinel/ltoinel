@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ludovic Toinel</h1>
-<h3 align="center">Fullstack Architect @Capgemini · Nantes, France 🇫🇷</h3>
+<h3 align="center">Vice President & Fullstack Architect @Capgemini · Nantes, France 🇫🇷</h3>
 
 <p align="center">
   <a href="https://ludovic.toinel.com"><img src="https://img.shields.io/badge/Blog-Geeek.org-0A66C2?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/></a>
@@ -11,10 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-- ♤ **Fullstack Architect at [Capgemini](https://www.capgemini.com/) since 2004**
+- ♤ **Vice President & Fullstack Architect at [Capgemini](https://www.capgemini.com/) since 2004**
 - 🚩 Based in **Nantes, France** — blending creativity and technology for innovative solutions
 - 🤝 Always on the lookout for talented developers and architects to join our team
 - 🌟 **22+ years** designing robust, scalable and maintainable software across industries
+- 🤖 Focused on **agentic AI**, **DevSecOps** and **application security**
 - 💡 I believe in **open-source** as a way to share knowledge and empower others
 
 ## 🛠️ Tech Stack
@@ -36,6 +37,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
 ## 🚀 Featured Projects
