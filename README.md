@@ -14,7 +14,7 @@
 - ♤ **Fullstack Architect at [Capgemini](https://www.capgemini.com/) since 2004**
 - 🚩 Based in **Nantes, France** — blending creativity and technology for innovative solutions
 - 🤝 Always on the lookout for talented developers and architects to join our team
-- 🌟 **21+ years** designing robust, scalable and maintainable software across industries
+- 🌟 **22+ years** designing robust, scalable and maintainable software across industries
 - 💡 I believe in **open-source** as a way to share knowledge and empower others
 
 ## 🛠️ Tech Stack
