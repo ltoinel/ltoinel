@@ -40,6 +40,8 @@
 
 ## 🚀 Featured Projects
 
+- 💰 **[Carbure](https://github.com/ltoinel/Carbure)** — Self-hosted household budget app: bank sync, auto-categorization, monthly budgets, iPhone alerts and an MCP server for AI agents
+- 🖥️ **[LudOS](https://github.com/ltoinel/LudOS)** — A full web shell terminal with Web LLM support and experimental agentic features
 - 🏠 **[DomoGeeek](https://github.com/ltoinel/DomoGeeek)** — Home automation box based on Z-Wave, Raspberry Pi, Node.js and MongoDB
 - 🔌 **[ZWave2MQTT](https://github.com/ltoinel/ZWave2MQTT)** — A Node.js bridge between Z-Wave devices and MQTT
 - 🛒 **[amw](https://github.com/ltoinel/amw)** — Amazon Modern Widgets for affiliate websites (PAAPI 5)
