@@ -55,6 +55,7 @@
 - 🛒 **[amw](https://github.com/ltoinel/amw)** — Amazon Modern Widgets for affiliate websites (PAAPI 5)
 - 🪟 **[iBubendorff](https://github.com/ltoinel/iBubendorff)** — Arduino app turning a Bubendorff remote into a connected object
 - ⚡ **[ghost-cloudflare-cache-purge](https://github.com/ltoinel/ghost-cloudflare-cache-purge)** — Cloudflare Worker to purge Ghost CMS cached pages
+- 🤖 **[ghost-discord-worker](https://github.com/ltoinel/ghost-discord-worker)** — Worker syncing Discord roles with Ghost CMS memberships
 
 ## ✍️ Writing & Side Projects
 
