@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
 - 💰 **[Carbure](https://github.com/ltoinel/Carbure)** — Self-hosted household budget app: bank sync, auto-categorization, monthly budgets, iPhone alerts and an MCP server for AI agents
 - 🖥️ **[LudOS](https://github.com/ltoinel/LudOS)** — A full web shell terminal with Web LLM support and experimental agentic features
